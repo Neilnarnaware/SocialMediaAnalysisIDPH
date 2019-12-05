@@ -1,0 +1,32 @@
+Location,Handler,X,Y,ZipCode
+2550 Annie Glidden Rd DeKalbIL,DeKalbCoHD,88.7504,41.9295,60115
+"4424 US Hwy 34, Kewanee, IL 61",HenryStarkHD,89.813,41.0796,61443
+"Aurora, Illinois",KaneCoHealth,88.4016,41.9879,60506
+"Belleville, IL",stclairhealth,89.9253,38.4008,62220
+"Belvidere, IL 61008",boonecohealth,88.8263,42.3485,61008
+"Benton & Marion, IL",fwbicohealth,88.9201,37.9967,60957
+"Bloomington, IL",McLeanHealth,88.8647,40.5478,61701
+"Carlinville, IL",MacoupinHealth,89.9253,39.2375,62626
+Champaign County Illinois,CU_PublicHealth,88.2434,40.1164,61820
+"Chicago, IL",CookCtyHealth,87.6976,41.7377,60452
+"Chicago, Illinois USA",ChiPublicHealth,87,41.88,60604
+"Decatur, IL USA",Maconcountyhd,89.0179,39.8949,62521
+"Des Moines, Iowa",polkcohealth,87.6083,41.3117,60401
+"Lawrenceville, IL",LCHD_Illinois,89.3227,41.679,61021
+"Dixon, IL",LCHD_IL,87.7763,38.7158,62439
+"DuPage County, IL",DuPageHD,88.0901,41.8244,60187
+Eureka IL,WoodfordHealth,89.1706,40.7129,61530
+"Freeport, IL",ERCSCHD,89.6252,42.3145,61032
+"Galesburg, IL",kchd92,90.2245,40.8776,61401
+Greenville IL,BondCountyHD,89.4742,38.903,62246
+"Joliet, Il",WillCoHealth,88.0901,41.5055,60408
+"Kankakee, Illinois",kankakeehealth,87.8612,41.12,60901
+"Lake County, Illinois",LakeCoHealth,87.8272,42.3689,60085
+"Ottawa, IL",LaSalleCoHealth,89.0418,41.3622,61350
+"Peoria, IL",peoriaprepare,89.589,40.6936,61604
+Rock Island IL,RICO_HealthDept,89.094,42.2711,61201
+"Rockford, Illinois",WinnCoHealth,89.1706,42.3121,61103
+"Tremont, IL",tazewellhealth,89.4742,40.5522,61568
+Whiteside County Illinois,Whiteside_CHC,89.8505,41.7606,61071
+Woodstock IL,McHenryCoHealth,88.4016,42.304,60098
+"Yorkville, IL ",kendallhealth,88.4404,41.5507,60560 
